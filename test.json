@@ -1,0 +1,12 @@
+{
+    "name": "Ivan",
+    "age": 20,
+    "is_adult": true,
+    "langs": ["Python", "C#", "Java"],
+    "obj": null,
+    "profile": {
+        "education": "H"
+    },
+    "2": "dsfdsf",
+    "birthday": "12.03"
+}
